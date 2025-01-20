@@ -1,18 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Assalamuwalaikum👋 </h1>
 
 ###
 
-<p align="left">I'm a 3rd-year Computer Science and Engineering (CSE) student at United International University. I'm passionate about web development</p>
+
 
 ###
 
 <h2 align="left">About me</h2>
+<p align="left">I'm a 3rd-year Computer Science and Engineering (CSE) student at United International University. I'm passionate about web development</p>
 
-###
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
