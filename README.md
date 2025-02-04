@@ -2,8 +2,8 @@
 
 ###
 
-<h2 align="left">Portfulio</h2>
-https://riyadh435.github.io/My-portfulio/
+<h2 align="left">About me</h2>
+https://riyadh435.github.io/riyadhtouhid/
 
 
 
