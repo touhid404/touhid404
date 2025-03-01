@@ -29,6 +29,11 @@
 
 - **Email:** [touhid435r@gmail.com](mailto:touhid435r@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/riyadh-touhid](https://linkedin.com/in/riyadh-touhid)  
-- **GitHub:** [github.com/touhid404](https://github.com/touhid404)  
+- **GitHub:** [github.com/touhid404](https://github.com/touhid404)
+
+
+<hr>
+
+Thanks for visiting! Check out my projects and feel free to connect for collaboration. Let’s create something great together! ❤️
 
 
