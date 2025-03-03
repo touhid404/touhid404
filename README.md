@@ -15,8 +15,8 @@
 ### 💻 Technical Skills  
 
 - **Languages:** C, C++, Java, JavaScript, HTML, CSS  
-- **Frontend:** React.js, Next.js  
-- **Backend:** Node.js, Express.js  
+- **Frontend:** React.js  
+- **Backend:** Node.js  
 - **Database:** MySQL, Firebase, Supabase  
 - **Cloud & DevOps:**  Vercel, Netlify  
 - **Other Tools:** Git, GitHub  
@@ -29,7 +29,7 @@
 
 - **Email:** [touhid435r@gmail.com](mailto:touhid435r@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/riyadh-touhid](https://linkedin.com/in/riyadh-touhid)  
-- **GitHub:** [github.com/touhid404](https://github.com/touhid404)
+
 
 
 <hr>
