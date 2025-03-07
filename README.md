@@ -16,7 +16,7 @@
 
 - **Languages:** C, C++, Java, JavaScript, HTML, CSS  
 - **Frontend:** React.js  
-- **Backend:** Node.js  
+- **Backend:** Node.js ,PHP 
 - **Database:** MySQL, Firebase, Supabase  
 - **Cloud & DevOps:**  Vercel, Netlify  
 - **Other Tools:** Git, GitHub  
