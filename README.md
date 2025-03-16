@@ -14,12 +14,12 @@
 
 ### 💻 Technical Skills  
 
-- **Languages:** C, C++, Java, JavaScript, HTML, CSS  
+- **Languages:** C, C++, Java, JavaScript,Python, HTML, CSS  
 - **Frontend:** React.js  
-- **Backend:** Node.js ,PHP 
+- **Backend:** Node js ,PHP 
 - **Database:** MySQL, Firebase, Supabase  
-- **Cloud & DevOps:**  Vercel, Netlify  
-- **Other Tools:** Git, GitHub  
+- **Cloud & DevOps:**  Vercel, Netlify , Surge
+- **Other Tools:** Git, GitHub  ,Figma , Pixso
 
 <hr>
 
