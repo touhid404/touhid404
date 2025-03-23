@@ -5,9 +5,9 @@
  I'm Touhid. I specialize in designing and maintaining scalable, efficient infrastructure for modern applications. With a strong background in frontend and backend web development, I have expertise in database management, enabling me to build reliable systems that drive innovation and growth.
 
  
-🌱 Always learning and exploring new technologies   
-🌐 Visit my website: [touhid.com](https://touhid404.github.io/riyadhtouhid/)  
-🎓 Pursuing a **Bachelor's in Computer Science** at [United International University](https://www.uiu.ac.bd/)
+Always learning and exploring new technologies   
+Visit my website: [riyadh touhid](https://touhid404.github.io/riyadhtouhid/)  
+Pursuing a **Bachelor's in Computer Science** at [United International University](https://www.uiu.ac.bd/)
  
 
 <hr>
@@ -18,8 +18,8 @@
 - **Frontend:** React.js  
 - **Backend:** Node js ,PHP 
 - **Database:** MySQL, Firebase, Supabase  
-- **Cloud & DevOps:**  Vercel, Netlify , Surge
-- **Other Tools:** Git, GitHub  ,Figma , Pixso
+- **Cloud & DevOps:**  Vercel, Netlify , Surge, GitHub
+- **Other Tools:** Tailwind, Daisy UI, Figma, Pixso
 
 <hr>
 
