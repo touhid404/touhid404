@@ -6,7 +6,6 @@
 
  
 Always learning and exploring new technologies   
-Visit my website: [riyadh touhid](https://touhid404.github.io/riyadhtouhid/)  
 Pursuing a **Bachelor's in Computer Science** at [United International University](https://www.uiu.ac.bd/)
  
 
