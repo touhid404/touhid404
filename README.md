@@ -15,8 +15,8 @@ Pursuing a **Bachelor's in Computer Science** at [United International Universit
 
 - **Languages:** C, C++, Java, JavaScript,Python, HTML, CSS  
 - **Frontend:** React.js  
-- **Backend:** Node js ,PHP 
-- **Database:** MySQL, Firebase, Supabase  
+- **Backend:** Node js, Express js, PHP 
+- **Database:** MySQL, MongoDB, Firebase, Supabase  
 - **Cloud & DevOps:**  Vercel, Netlify , Surge, GitHub
 - **Other Tools:** Tailwind, Daisy UI, Figma, Pixso
 
