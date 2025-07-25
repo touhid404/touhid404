@@ -40,7 +40,7 @@ Some of my current activities:
 ### 📍 Location and Contact  
 
 - **Location:** Dhaka, Bangladesh  
-- **Email:** [touhidulislamriyadh@gmail.com](mailto:touhidulislamriyadh@gmail.com)  
+- **Email:** [touhidul.dev5@gmail.com](mailto:touhidul.dev5@gmail.com)  
 
 ---
 
@@ -65,7 +65,6 @@ Some of my current activities:
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=touhid404&show_icons=true&theme=radical" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhid404&layout=compact&theme=radical" height="200" alt="Top Languages" />
 </p>
 
