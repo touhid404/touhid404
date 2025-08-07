@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://github.com/touhid404/touhid404/blob/main/dp.svg)
+![Banner](https://github.com/touhid404/touhid404/blob/main/Cover-main.png)
 
 
 <h3 align="left">Junior MERN Stack Developer</h3>
