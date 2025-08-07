@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://github.com/touhid404/touhid404/blob/main/Cover%20photo.svg)
+![Banner](https://github.com/touhid404/touhid404/blob/main/dp.svg)
 
 <h1 align="left">Touhidul Islam Riyadh</h1>
 <h3 align="left">Junior MERN Stack Developer</h3>
@@ -47,7 +47,7 @@ Some of my current activities:
 ### 📫 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/riyadh-touhid">
+  <a href="https://linkedin.com/in/touhidul-dev5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/touhid404">
@@ -56,25 +56,13 @@ Some of my current activities:
   <a href="https://youtube.com/@riyadhtouhid">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://facebook.com/riyadhwhy">
+  <a href="https://facebook.com/touhidul.dev5">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhid404&layout=compact&theme=radical" height="200" alt="Top Languages" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/touhidul404">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 
 ---
