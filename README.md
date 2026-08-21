@@ -1,7 +1,7 @@
 <!-- Header Wave Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16&height=180&section=header&text=Md.%20Touhidul%20Islam&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Junior%20Software%20Developer%20%7C%20CSE%20Undergraduate%20%40%20UIU&descAlignY=55&descSize=18" alt="Md. Touhidul Islam" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:38bdf8,75:1e40af,100:0f172a&height=180&section=header&text=Md.%20Touhidul%20Islam&fontSize=42&fontColor=F8FAFC&animation=twinkling&fontAlignY=32&desc=Junior%20Software%20Developer%20%7C%20CSE%20Undergraduate%20%40%20UIU&descAlignY=55&descSize=18" alt="Md. Touhidul Islam" />
 </p>
 
 <!-- Typing Animation -->
@@ -24,20 +24,21 @@
 
 ## About Me
 
-I focus on writing clean, maintainable code and delivering seamless user experiences. Currently dedicated to mastering backend-optimized architectures, system design, and performance optimization.
+I am currently a 4th-year CSE student. I focus on backend architecture, system design, and building scalable  systems. Currently dedicated to mastering backend-optimized architectures, system design, and performance optimization.
 
 - From **Dhaka, Bangladesh**
 - **B.Sc. in Computer Science & Engineering @ United International University** (Oct 2022 – Ongoing)
 - Portfolio: **[touhidul.top](https://touhidul.top)** &nbsp;·&nbsp; Email: **[touhidul.dev5@gmail.com](mailto:touhidul.dev5@gmail.com)**
 - LinkedIn: **[in/touhid404](https://linkedin.com/in/touhid404)**
+- Currently learning **CI/CD pipelines** and **Kubernetes**.
 - Open to backend challenges, software engineering roles .
 
 ---
 
 ## Research
 
-- **Solving the Lorenz ODE System Using Optimal ANN Architectures** — *undergraduate thesis, in progress (FYDP-I defended, supervisor Dr. Muhammad Nomani Kabir).* &nbsp;[Code](https://github.com/ihmorol/fydp_workspace)
-- **ANN Modeling of Hybrid Nanofluid Boundary Layer Flow** — a 9-layer network trained with Levenberg-Marquardt optimization on ~32,400 physics-generated samples. &nbsp;[Code](https://github.com/ihmorol/ann-hybrid-nanofluid-model)
+- **Solving the Lorenz ODE System Using Optimal ANN Architectures** — *undergraduate thesis, in progress (FYDP-I defended, supervisor Dr. Muhammad Nomani Kabir).*
+- **Evaluating the Impact of Variable Name Obfuscation on LLM Self-Healing Software** — *a study evaluating whether interactive error feedback in self-healing loops enables LLMs to recover from variable name obfuscation.*
 
 ---
 
@@ -61,7 +62,7 @@ I focus on writing clean, maintainable code and delivering seamless user experie
 
 **Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,postman,figma" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vercel,linux,postman,figma" alt="Tools" />
 
 ---
 
@@ -103,5 +104,5 @@ I focus on writing clean, maintainable code and delivering seamless user experie
 <!-- Footer Wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e40af,50:38bdf8,75:1e40af,100:0f172a&height=120&section=footer" alt="Footer Wave" />
 </p>
