@@ -74,9 +74,9 @@ I am currently a 4th-year CSE student. I focus on backend architecture, system d
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=touhid404&theme=tokyo-night&hide_border=true&bg_color=0B1220&color=E6EDF3&line=E6EDF3&point=9CA3AF&area=true&area_color=E6EDF3" alt="Contribution Graph" />
-</p>
+</p> -->
 
 <p align="center">
   <picture>
